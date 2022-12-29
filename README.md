@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
+ "C:\Users\SEC\Documents\exp1.2 divya.pdf"
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
