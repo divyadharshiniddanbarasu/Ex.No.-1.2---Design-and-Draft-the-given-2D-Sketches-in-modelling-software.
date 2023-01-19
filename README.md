@@ -37,7 +37,8 @@
 
  ## OUTPUT
  
- "C:\Users\SEC\Documents\exp1.2 divya.pdf"
+ ![Screenshot_20230119_063958](https://user-images.githubusercontent.com/119393424/213454430-995da2b8-3db7-4dd2-9e76-c19c934770dd.png)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
